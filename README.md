@@ -6,7 +6,7 @@
 
 |部品|個数|備考|
 |:--|:--|:--|
-|PCB|2||
+|基板|2||
 |[ダイオード(表面実装型)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)|38||
 |[タクトスイッチ](https://akizukidenshi.com/catalog/g/gP-08081/)|2||
 |[TRRSソケット](https://shop.yushakobo.jp/products/a0800tr-01-1?_pos=1&_sid=6aacd8367&_ss=r)|2||
@@ -50,39 +50,71 @@
 |ボトムプレート|2|2mm厚アクリルプレート。|
 |Pro Microプレート|2|2mm厚アクリルプレート。|
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+# 組み立て方
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+## 1. 基板の左右と表裏を確認する
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+基板はリバーシブル構造となっています。作業ミスを減らすためにマスキングテープなどで表面に左右が分かるように記入することを推奨します。
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_0989.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+## 2. ダイオードの取り付け
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+ダイオードを取り付けます。ダイオードはキースイッチの入力を伝達するのに必要な機構です。基板の裏面に取り付けます。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_0992.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+ダイオードには向きがあります。基板に `[□ ▷|□]` と印刷された箇所に取り付けます。この時 `▷|` の縦線とダイオードの縦線が同じ側になるように配置します。
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_0993.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+ダイオードを取り付ける前に、ダイオード配置箇所のハンダ付け面の片方にハンダを溶かして乗せておきます。(予備ハンダ)
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_0995.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+ピンセットでダイオードを掴みながら予備ハンダを溶かしてダイオードの片側を基板とハンダ付けします。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_0996.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+もう一方もハンダ付けします。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_0998.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+基板の片側で18箇所、左右で38箇所にダイオードをハンダ付けしたら完了です。
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_0999.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+### 3. キースイッチソケットの取り付け
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+キースイッチソケットを基板に取り付けます。キースイッチソケットはキースイッチを固定するために使用する部品です。基板の裏面に取り付けます。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1002.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+ダイオードと同様にハンダ付け箇所の片側に予備ハンダをします。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1003.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+ピンセットでキースイッチソケットを掴みながら予備ハンダを溶かしてキースイッチソケットをハンダ付けします。
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1004.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+反対側もハンダ付けします。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1006.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+こちらダイオードと同様に片側で18箇所、左右で38箇所に取り付けます。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1007.jpg?raw=true" width = "600px" />
+
+### 4. リセットスイッチの取り付け
+
+リセットスイッチとして、タクトスイッチを基板に取り付けます。リセットスイッチはファームウェアを書き込む際に利用します。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1008.jpg?raw=true" width = "600px" />
+
+リセットスイッチの取付箇所は基板の裏側になります。
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1009.jpg?raw=true" width = "600px" />
+
+ダイオードやキースイッチソケットと同様に、タクトスイッチのハンダ付け箇所の1つに予備ハンダをします。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1010.jpg?raw=true" width = "600px" />
+
+ピンセットでタクトスイッチを掴みながら予備ハンダを溶かしてハンダ付けします。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1011.jpg?raw=true" width = "600px" />
+
+タクトスイッチ足4つ全てをハンダ付けします。左右の基板どちらにも取り付けてください。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1012.jpg?raw=true" width = "600px" />
+
+### 5. Pro Microの取り付け
+
+
 
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
 
