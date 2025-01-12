@@ -156,6 +156,8 @@ TRRSソケットを基板の表側に載せます。
 ## 9. ケースとキースイッチの取り付け
 
 以降は左手側での組み立て説明です。右手側も手順は同様です。
+アクリルケースと3Dプリントケースの2種類での組み方の説明となります。
+大まかな部分の手順は同様ですので、どちらの手順も目を通しておくと理解度が高まります。
 
 ### アクリルケース
 
@@ -198,36 +200,55 @@ Pro Micro横のネジ穴は長いネジを裏面から通して表面からス�
 裏返して、ボトムプレートから出たネジをナットで止めます。  
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1771.jpg?raw=true" width = "600px" />
 
+### 3Dプリントケース
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+スイッチプレートを用意します。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1039.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+スイッチプレートと基板をキースイッチで固定します。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1042.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+キースイッチを4-5個程度スイッチプレートに挿します。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1043.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+基板の上にスイッチプレートを載せ、先ほど挿したキースイッチの足が基板に取り付けたキースイッチソケットに刺さるようにはめ込みます。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1044.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+全てのキースイッチを取り付けます。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1046.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+ボトムプレートを取り出します。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1047.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+先程のスイッチプレート(と基板)にボトムプレートをはめ込みます。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1049.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+長いネジとナットを取り出します。  
+<img src = "https://github.com/takashicompany/minidivide/raw/master/images/build/IMG_3739.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+ネジをスイッチプレートの表面からネジ穴に挿します。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1051.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+裏返してボトムプレートから先ほど挿したネジをナットで留めます。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1052.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+短いネジとスペーサーを取り出します。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1096.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+ボトムプレートの赤丸の箇所に短いネジを挿します。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1099.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+表面から先程挿したネジをスペーサーで固定します。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1100.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+### Pro Microカバーの取り付け
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+以降はアクリルケース・3Dプリントケースのどちらも手順は共通です。  
+Pro Microカバーを取り出します。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1101.jpg?raw=true" width = "600px" />
+
+スペーサーの上にPro Microカバーを載せ、短いネジで固定します。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1104.jpg?raw=true" width = "600px" />
 
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
 
