@@ -29,6 +29,7 @@
 |[キースイッチ](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)|38|Choc v1、v2に対応しています。Lofreeのキースイッチにも対応しています。|
 |0.8uキーキャップ(16mm)|38|詳細は後述|
 |[Pro Micro](https://talpkeyboard.net/?category_id=59e2ad48c8f22c3720001301)|2|動作確認済みのものは[こちら](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)|
+|[コンスルー](https://shop.yushakobo.jp/products/31)|4|12ピンのものを購入しておけばPro Micro、BLE Micro Proの両方に用いることができます。|
 
 ### ケース
 
@@ -114,13 +115,14 @@
 
 ### 5. Pro Microの取り付け
 
+MCU（Micro Controller Unit）として、Pro Microを取り付けます。MCUは主にキーボードの入力をPCなどの外部デバイスに伝達します。Palmslaveは BLE Micro Proを用いた無線化に対応していますが、動作が正しくない場合のトラブルシューティングの観点から最初はPro Microによる有線接続で組み立てることを推奨します。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1013.jpg?raw=true" width = "600px" />
 
+Pro Microを基板に取り付ける際は[コンスルー](https://shop.yushakobo.jp/products/31)を使用することを強く推奨します。コンスルーを用いることでMCUが故障した歳の交換が容易になる・Pro Microを用いて組み立てた後にBLE Micro Proへの移行が容易になります。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1014.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+コンスルーを基板に指します。
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1015.jpg?raw=true" width = "600px" />
 
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
 
