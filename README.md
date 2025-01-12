@@ -162,7 +162,7 @@ TRRSソケットを基板の表側に載せます。
 以下5つの部品を用いて組み立てます。保護シートが貼られている場合は剥がしてください。  
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1757.jpg?raw=true" width = "600px" />
 
-スイッチプレートをキースイッチを用いて取り付けます。基板の表側に配置します。  
+①スイッチプレートをキースイッチを用いて取り付けます。基板の表側に配置します。  
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1759.jpg?raw=true" width = "600px" />
 
 スイッチプレートと基板をキースイッチを用いて固定します。  
@@ -171,24 +171,33 @@ TRRSソケットを基板の表側に載せます。
 スイッチプレートを基板の表側に載せ、キースイッチをスイッチプレートに挿します。この時キースイッチの足がスイッチソケットに入るように挿します。スイッチは4-5個程度用いて仮止めとします。  
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1760.jpg?raw=true" width = "600px" />
 
-
+②ボトムプレートと⑤スペーサープレートを用意します。    
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1761.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+スペーサーと短いネジを2本用意します。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1763.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+裏面からネジを挿してスペーサーを用いてスペーサープレートと固定します。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1764.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+表面からは以下の写真と同様になっていればOKです。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1765.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+ボトムプレートに③積層プレートAを載せ、さらにその上に④積層プレートBを重ねます。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1767.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+スペーサーに加え、長いネジとナットを用います。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1768.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+Pro Micro横のネジ穴は長いネジを裏面から通して表面からスペーサーで固定します。スペーサーは積層プレートAに載せる形となります。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1770.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+他のネジ穴はスイッチプレートから積層プレートA & B → ボトムプレートと通します。
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1769.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+裏返して、ボトムプレートから出たネジをナットで止めます。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1771.jpg?raw=true" width = "600px" />
+
 
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
 
