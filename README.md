@@ -153,6 +153,48 @@ TRRSソケットを基板の表側に載せます。
 2025/01/12時点では[miniDivide(v1)のファームウェア](https://github.com/takashicompany/minidivide?tab=readme-ov-file#6-%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF)をご利用ください。
 書き込み手順や確認事項も同様となります。
 
+
+
+## 8. 無線化用の部品の取り付け
+
+この項目は**Pro Microでの有線接続で左右のキーボードの全てのキーの入力が確認できた後に実施することを推奨**します。
+無線化自体は組み立て終わった後でも実施可能ですので、後回しにしてもOKです。
+
+チップ積層セラミックコンデンサーを取り出します。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1024.jpg?raw=true" width = "600px" />
+
+取り付け箇所は基板裏側のリセットスイッチ付近です。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1025.jpg?raw=true" width = "600px" />
+
+ダイオードなどと同様に予備ハンダを行います。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1026.jpg?raw=true" width = "600px" />
+
+ピンセットでコンデンサーを掴みながら予備ハンダを溶かしつつ片側をハンダ付けします。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1027.jpg?raw=true" width = "600px" />
+
+コンデンサーのもう片側もハンダ付けを行います。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1028.jpg?raw=true" width = "600px" />
+
+電源スイッチを取り出します。取り付け箇所は基板の裏面のタクトスイッチ付近です。
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1030.jpg?raw=true" width = "600px" />
+
+電源スイッチの足と基板のハンダ付け箇所が合うように載せます。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1031.jpg?raw=true" width = "600px" />
+
+電源スイッチの足と基板をハンダ付けします。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1032.jpg?raw=true" width = "600px" />
+
+コイン電池ホルダーを取り付けます。取り付け箇所は基板の表側のPro MicroとTRRSソケットの間です。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1033.jpg?raw=true" width = "600px" />
+
+コイン電池ホルダーの足が基板に通るように穴を確認しながら挿します。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1035.jpg?raw=true" width = "600px" />
+
+基板の裏面からコイン電池ホルダーの足が出ていることを確認します。基板を裏返した時にコイン電池ホルダーが抜け落ちしまう場合はマスキングテープなどで固定すると作業がスムーズに進められます。赤丸の位置からコイン電池ホルダーの足が出ていることを確認できたら足と基板をハンダ付けします。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1036.jpg?raw=true" width = "600px" />
+
+コイン電池ホルダーにCR1636を入れたら完了です。
+
 ## 9. ケースとキースイッチの取り付け
 
 以降は左手側での組み立て説明です。右手側も手順は同様です。
