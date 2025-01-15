@@ -65,7 +65,7 @@
 ダイオードを取り付けます。ダイオードはキースイッチの入力を伝達するのに必要な機構です。基板の裏面に取り付けます。  
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_0992.jpg?raw=true" width = "600px" />
 
-ダイオードには向きがあります。基板に `[□ ▷|□]` と印刷された箇所に取り付けます。この時 `▷|` の縦線とダイオードの縦線が同じ側になるように配置します。
+ダイオードには向きがあります。基板に `[□ ▷|□]` と印刷された箇所に取り付けます。この時 `▷|` の縦線とダイオードの縦線が同じ側になるように配置します。  
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_0993.jpg?raw=true" width = "600px" />
 
 ダイオードを取り付ける前に、ダイオード配置箇所のハンダ付け面の片方にハンダを溶かして乗せておきます。(予備ハンダ)
