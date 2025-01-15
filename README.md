@@ -102,7 +102,7 @@
 リセットスイッチとして、タクトスイッチを基板に取り付けます。リセットスイッチはファームウェアを書き込む際に利用します。  
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1008.jpg?raw=true" width = "600px" />
 
-リセットスイッチの取付箇所は基板の裏側になります。
+リセットスイッチの取付箇所は基板の裏側になります。  
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1009.jpg?raw=true" width = "600px" />
 
 ダイオードやキースイッチソケットと同様に、タクトスイッチのハンダ付け箇所の1つに予備ハンダをします。  
@@ -153,7 +153,24 @@ TRRSソケットを基板の表側に載せます。
 2025/01/12時点では[miniDivide(v1)のファームウェア](https://github.com/takashicompany/minidivide?tab=readme-ov-file#6-%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF)をご利用ください。
 書き込み手順や確認事項も同様となります。
 
+Pro Microにファームウェアを書き込みます。ファームウェアは[Remapから書き込む](https://remap-keys.app/catalog/9hMciuSoDHS5Mp3YbabX/firmware)ことができます。
 
+<img src = "https://github.com/user-attachments/assets/b1b23ce1-76be-411c-ac60-f279fc0dc829" width = "600px" />
+
+Remapでのファームウェア書き込みは[こちら](https://docs.dailycraft.jp/buildguides/firmware/remap.html)を参照すると手順が分かりやすいかと思います。
+
+Remapの使い方は[こちら](https://salicylic-acid3.hatenablog.com/entry/remap-manual)を参照するのが分かりやすいかと思います。
+
+Remapでダイオードとスイッチソケット、Pro Microが正しく動作するかを確認できます。USBでPCに接続しRemapを開いた後に、右下の3点リーダからTest Matrix modeを選択してください。  
+<img src = "https://github.com/user-attachments/assets/bbf50785-3b81-409f-b537-e246f61435c5" width = "600px" />
+
+金属製のピンセットなどで赤丸の箇所を通電させることで擬似的にキースイッチの入力を再現できます。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1006_b.jpg?raw=true" width = "600px" />
+
+全てのキースイッチが点灯するかを確認します。なお、ファームウェアは左手側をUSBとして接続することを前提としているので、片手側のみを接続した場合は左手側が点灯します。  
+<img src = "https://github.com/user-attachments/assets/fff6db54-1183-41e4-b80f-9ce3ca1ff5d8" width = "600px" />
+
+もし点灯しないキーがあった場合はダイオードやスイッチソケットのハンダ付けを再度行うと改善することがあるかと思います。
 
 ## 8. 無線化用の部品の取り付け
 
