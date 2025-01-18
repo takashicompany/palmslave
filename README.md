@@ -28,7 +28,7 @@
 |:--|:--|:--|
 |[キースイッチ](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)|38|Choc v1、v2に対応しています。Lofreeのキースイッチにも対応しています。|
 |0.8uキーキャップ(16mm)|38|詳細は後述|
-|[Pro Micro](https://talpkeyboard.net/?category_id=59e2ad48c8f22c3720001301)|2|動作確認済みのものは[こちら](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)|
+|[Pro Micro](https://talpkeyboard.net/?category_id=59e2ad48c8f22c3720001301)|2|動作確認済みのものは[こちら](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)です。高さがあるPro Micro(USB-C採用をしたものなど)はPro Microカバーと干渉してしまうことがあります。背の低いPro Microを選択するかスペーサーを長いものに取り替えるなどで対応できます。|
 |[コンスルー](https://shop.yushakobo.jp/products/31)|4|12ピンのものを購入しておけばPro Micro、BLE Micro Proの両方に用いることができます。|
 |[TRRSケーブル](https://shop.yushakobo.jp/products/8023)|1|有線接続の際に左右のキーボードを接続します。|
 
@@ -210,7 +210,12 @@ Remapでダイオードとスイッチソケット、Pro Microが正しく動作
 基板の裏面からコイン電池ホルダーの足が出ていることを確認します。基板を裏返した時にコイン電池ホルダーが抜け落ちしまう場合はマスキングテープなどで固定すると作業がスムーズに進められます。赤丸の位置からコイン電池ホルダーの足が出ていることを確認できたら足と基板をハンダ付けします。  
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1036.jpg?raw=true" width = "600px" />
 
-コイン電池ホルダーにCR1636を入れたら完了です。
+コイン電池ホルダーにCR1632を入れます。Pro Microと同様にBLE Micro Proを取付けます。
+
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_2143.jpg?raw=true" width = "600px" />
+
+BLE Micro Proの設定手順は[こちら](https://sekigon-gonnoc.github.io/BLE-Micro-Pro/#/getting_started?id=ble-micro-pro-web-configurator%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e3%83%95%e3%82%a1%e3%83%bc%e3%83%a0%e3%82%a6%e3%82%a7%e3%82%a2%e3%82%92%e6%9b%b8%e3%81%8d%e8%be%bc%e3%82%80)を参考に進めてください。
+
 
 ## 9. ケースとキースイッチの取り付け
 
