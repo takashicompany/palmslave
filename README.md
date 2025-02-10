@@ -1,4 +1,16 @@
-# Palmslave
+# Palmslave (miniDivide v2)
+
+Palmslave(パームスレイブ)は16mm(0.8u)の狭ピッチを採用した38キーで分割型のキーボードです。  
+[miniDivide](https://github.com/takashicompany/minidivide)の後継機種となります。  
+小さく薄いため持ち運びやすく、特にスマートフォンとの相性は抜群です。  
+デスクの占有スペースも小さくて済むので普段遣いにも適しています。  
+従来のキーボードよりキーの間隔が近いため、最小限の指の動きで文字を打鍵することが可能です。  
+
+キースイッチはChoc v1とChoc v2に対応しています。
+キースイッチソケットを採用しているため、気分や好みにあわせてキースイッチを取り替えることが可能です。
+BLE Micro Proを用いることでBluetoothによる無線接続も可能です。  
+
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/01.jpg?raw=true" height = "200px" /><img src = "https://github.com/takashicompany/palmslave/blob/master/images/02.jpg?raw=true" height = "200px" /><img src = "https://github.com/takashicompany/palmslave/blob/master/images/03.jpg?raw=true" height = "200px" /><img src = "https://github.com/takashicompany/palmslave/blob/master/images/04.jpg?raw=true" height = "200px" /><img src = "https://github.com/takashicompany/palmslave/blob/master/images/05.jpg?raw=true" height = "200px" />
 
 # 部品
 
