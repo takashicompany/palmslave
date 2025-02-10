@@ -12,6 +12,12 @@ BLE Micro Proを用いることでBluetoothによる無線接続も可能です�
 
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/01.jpg?raw=true" height = "200px" /><img src = "https://github.com/takashicompany/palmslave/blob/master/images/02.jpg?raw=true" height = "200px" /><img src = "https://github.com/takashicompany/palmslave/blob/master/images/03.jpg?raw=true" height = "200px" /><img src = "https://github.com/takashicompany/palmslave/blob/master/images/04.jpg?raw=true" height = "200px" /><img src = "https://github.com/takashicompany/palmslave/blob/master/images/05.jpg?raw=true" height = "200px" />
 
+# 組み立てる前に
+
+購入前に以降の作業工程を読みながら頭の中で組み立てるイメージをすることを推奨します。  
+部品の位置関係や必要な部品を具体的にすることで、ミスを少なくすることが可能です。  
+不明点などありましたら、お気軽にお問い合わせください。
+
 # 部品
 
 ## キットに含まれているもの
