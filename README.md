@@ -326,12 +326,21 @@ Pro Microカバーを取り出します。
 スペーサーの上にPro Microカバーを載せ、短いネジで固定します。  
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1104.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+## 10. ゴム足シールの取付け
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+ケースの底面に滑り止めとしてゴム足シールを貼り付けます。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1105.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+打鍵スタイルにあわせてお好みの位置に貼り付けてください。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1106.jpg?raw=true" width = "600px" />
 
+## 11. キーキャップの取り付け
+
+キースイッチにキーキャップを取付けて完成です。  
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/06.jpg?raw=true" width = "600px" />
+
+<!--
+
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
 
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
@@ -635,3 +644,5 @@ Pro Microカバーを取り出します。
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
 
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+
+-->
