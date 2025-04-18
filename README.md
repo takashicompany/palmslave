@@ -10,9 +10,8 @@ Palmslave(パームスレイブ)は16mm(0.8u)の狭ピッチを採用した38キ
 キースイッチソケットを採用しているため、気分や好みにあわせてキースイッチを取り替えることが可能です。
 BLE Micro Proを用いることでBluetoothによる無線接続も可能です。  
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/01.jpg?raw=true" height = "200px" /><img src = "https://github.com/takashicompany/palmslave/blob/master/images/02.jpg?raw=true" height = "200px" /><img src = "https://github.com/takashicompany/palmslave/blob/master/images/03.jpg?raw=true" height = "200px" /><img src = "https://github.com/takashicompany/palmslave/blob/master/images/04.jpg?raw=true" height = "200px" /><img src = "https://github.com/takashicompany/palmslave/blob/master/images/05.jpg?raw=true" height = "200px" />
-
-# 組み立てる前に
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/08.jpg?raw=true" width = "600px" />
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/09.jpg?raw=true" width = "300px" /><img src = "https://github.com/takashicompany/palmslave/blob/master/images/02_w1600px.jpg?raw=true" width = "300px" />
 
 購入前に以降の作業工程を読みながら頭の中で組み立てるイメージをすることを推奨します。  
 部品の位置関係や必要な部品を具体的にすることで、ミスを少なくすることが可能です。  
