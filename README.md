@@ -18,6 +18,13 @@ BLE Micro Proを用いることでBluetoothによる無線接続も可能です�
 部品の位置関係や必要な部品を具体的にすることで、ミスを少なくすることが可能です。  
 不明点などありましたら、お気軽にお問い合わせください。
 
+# 紹介記事・動画
+
+購入や組み立ての際に以下のページもご覧頂けますと、より理解が深まるかと思います。
+
+- [GreenKeys : takashicompany新作「Palmslave」レビュー｜スモールデバイスに似合う左右分割無線対応キーボード](https://green-keys.info/takashicompany-palmslave-review/)
+- [kazy : 狭ピッチ40%分割キーボード「Palmslave」ビルドログ](https://note.com/kazy_developer/n/n3b10e4a06097)
+
 # 部品
 
 ## キットに含まれているもの
@@ -350,6 +357,17 @@ Pro Microカバーを取り出します。
 
 キースイッチにキーキャップを取付けて完成です。  
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/06.jpg?raw=true" width = "600px" />
+
+### 12. 完成した後の楽しみ方
+
+完成しましたら、ぜひSNSなどに写真を投稿頂ければと思います。
+Twitterのハッシュタグは [`#Palmslave #自作キーボード`](https://twitter.com/search?q=%23%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%20%23Palmslave&src=typed_query) を付けていただけると幸いです。
+キットを組み立てた感想や、キーボードを使った所感などをお待ちしております！
+
+また、毎週日曜日の１9時より実施されている[#KEEP_PD](https://twitter.com/hashtag/KEEB_PD?f=live)に投稿頂くこともオススメです。  
+開催の告知は[@KEEB_PD](https://twitter.com/KEEB_PD)にて行われております。
+
+ご不明な点などございましたら、[@takashicompany](https://twitter.com/takashicompany)にメンションやDM頂ければ回答できるかと思います。
 
 <!--
 
