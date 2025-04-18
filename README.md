@@ -243,6 +243,8 @@ Remapでダイオードとスイッチソケット、Pro Microが正しく動作
 
 コイン電池ホルダーにCR1632を入れます。Pro Microと同様にBLE Micro Proを取付けます。
 
+Pro Microは片側12ピンですが、BLE Micro Proは13ピンとなります。12ピンのコンスルーのみのお持ちの方はBATの穴にコンスルーのピンが来るように挿してください(取り付け例は[こちら](https://x.com/takashicompany/status/1906256170035408966))。なお、BLE Micro Proとコンスルー、基板はハンダ付けなしで取り付けが可能です。
+
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_2143.jpg?raw=true" width = "600px" />
 
 BLE Micro Proの設定手順は[こちら](https://sekigon-gonnoc.github.io/BLE-Micro-Pro/#/getting_started?id=ble-micro-pro-web-configurator%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e3%83%95%e3%82%a1%e3%83%bc%e3%83%a0%e3%82%a6%e3%82%a7%e3%82%a2%e3%82%92%e6%9b%b8%e3%81%8d%e8%be%bc%e3%82%80)を参考に進めてください。
