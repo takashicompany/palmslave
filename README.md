@@ -52,7 +52,7 @@ BLE Micro Proを用いることでBluetoothによる無線接続も可能です�
 |部品|個数|備考|
 |:--|:--|:--|
 |[キースイッチ](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)|38|Choc v1、v2に対応しています。Lofreeのキースイッチにも対応しています。|
-|0.8uキーキャップ(16mm)|38|詳細は後述|
+|0.8uキーキャップ(16mm)|38|[こちら](https://zenn.dev/takashicompany/articles/9ed4ea07e072fd)にまとめております。|
 |[Pro Micro](https://talpkeyboard.net/?category_id=59e2ad48c8f22c3720001301)|2|動作確認済みのものは[こちら](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)です。高さがあるPro Micro(USB-C採用をしたものなど)はPro Microカバーと干渉してしまうことがあります。背の低いPro Microを選択するかスペーサーを長いものに取り替えるなどで対応できます。|
 |[コンスルー](https://shop.yushakobo.jp/products/31)|4|12ピンのものを購入しておけばPro Micro、BLE Micro Proの両方に用いることができます。|
 |[TRRSケーブル](https://shop.yushakobo.jp/products/8023)|1|有線接続の際に左右のキーボードを接続します。|
@@ -82,6 +82,11 @@ BLE Micro Proを用いることでBluetoothによる無線接続も可能です�
 |スイッチプレート(トッププレート)|2||
 |ボトムプレート|2||
 |MCUカバー(Pro Microプレート)|2||
+
+### キーキャップ
+
+[こちら](https://zenn.dev/takashicompany/articles/9ed4ea07e072fd)にてまとめております。  
+キースイッチは中心を16mm間隔で配置しておりますので、15.5mmサイズのキーキャップであれば問題なく利用できるかと思います。  
 
 # 組み立て方
 
