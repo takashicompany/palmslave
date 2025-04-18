@@ -68,7 +68,7 @@ BLE Micro Proを用いることでBluetoothによる無線接続も可能です�
 
 #### 3Dプリントケース
 
-データは[こちら](https://github.com/takashicompany/palmslave/tree/master/case/3d-print)
+データは[こちら](https://github.com/takashicompany/palmslave/tree/master/case/3d-print)です。
 
 |部品|個数|備考|
 |:--|:--|:--|
