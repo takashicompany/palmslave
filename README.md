@@ -52,23 +52,29 @@ BLE Micro Proを用いることでBluetoothによる無線接続も可能です�
 
 ### ケース
 
+ケースはアクリルケースと3Dプリントケースの2種類となります。
+
 #### アクリルケース
+
+データは[こちら](https://github.com/takashicompany/palmslave/tree/master/case/acrylic-plate)です。  
+[遊舎工房の「キーボードアクリルプレート」](https://shop.yushakobo.jp/products/keyboard_acrylic_plate?variant=50646933897447)にて発注可能です。  
 
 |部品|個数|備考|
 |:--|:--|:--|
 |スイッチプレート|2|2mm厚アクリルプレート。|
 |側面プレート|2|2mm厚アクリルプレート。|
 |ボトムプレート|2|2mm厚アクリルプレート。|
-|Pro Microプレート|2|2mm厚アクリルプレート。|
+|MCUカバー|2|2mm厚アクリルプレート。|
 
 #### 3Dプリントケース
 
+データは[こちら](https://github.com/takashicompany/palmslave/tree/master/case/3d-print)
+
 |部品|個数|備考|
 |:--|:--|:--|
-|スイッチプレート|2|2mm厚アクリルプレート。|
-|側面プレート|2|2mm厚アクリルプレート。|
-|ボトムプレート|2|2mm厚アクリルプレート。|
-|Pro Microプレート|2|2mm厚アクリルプレート。|
+|スイッチプレート(トッププレート)|2||
+|ボトムプレート|2||
+|MCUカバー|2||
 
 # 組み立て方
 
