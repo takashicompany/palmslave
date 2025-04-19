@@ -22,6 +22,9 @@ BLE Micro Proを用いることでBluetoothによる無線接続も可能です�
 
 購入や組み立ての際に以下のページもご覧頂けますと、より理解が深まるかと思います。
 
+[自作キーボード作ってみた Palmslave編 | Palmslave : Custom Mechanical Keyboard Build](https://www.youtube.com/watch?v=KTx7i8l9HfU&ab_channel=DaihukuKeyboard)
+[![Daihuku](http://img.youtube.com/vi/KTx7i8l9HfU/0.jpg)](https://www.youtube.com/watch?v=KTx7i8l9HfU)
+
 - [GreenKeys : takashicompany新作「Palmslave」レビュー｜スモールデバイスに似合う左右分割無線対応キーボード](https://green-keys.info/takashicompany-palmslave-review/)
 - [kazy : 狭ピッチ40%分割キーボード「Palmslave」ビルドログ](https://note.com/kazy_developer/n/n3b10e4a06097)
 
