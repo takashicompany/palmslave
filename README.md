@@ -116,7 +116,7 @@ BLE Micro Proを用いることでBluetoothによる無線接続も可能です�
 もう一方もハンダ付けします。  
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_0998.jpg?raw=true" width = "600px" />
 
-基板の片側で18箇所、左右で38箇所にダイオードをハンダ付けしたら完了です。
+基板の片側で19箇所、左右で38箇所にダイオードをハンダ付けしたら完了です。
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_0999.jpg?raw=true" width = "600px" />
 
 ## 3. キースイッチソケットの取り付け
@@ -133,7 +133,7 @@ BLE Micro Proを用いることでBluetoothによる無線接続も可能です�
 反対側もハンダ付けします。  
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1006.jpg?raw=true" width = "600px" />
 
-こちらダイオードと同様に片側で18箇所、左右で38箇所に取り付けます。  
+こちらダイオードと同様に片側で19箇所、左右で38箇所に取り付けます。  
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1007.jpg?raw=true" width = "600px" />
 
 ## 4. リセットスイッチの取り付け
