@@ -27,6 +27,7 @@ BLE Micro Proを用いることでBluetoothによる無線接続も可能です�
 
 - [GreenKeys : takashicompany新作「Palmslave」レビュー｜スモールデバイスに似合う左右分割無線対応キーボード](https://green-keys.info/takashicompany-palmslave-review/)
 - [kazy : 狭ピッチ40%分割キーボード「Palmslave」ビルドログ](https://note.com/kazy_developer/n/n3b10e4a06097)
+- [Kinotsuyo : 持ち運びたくなる狭ピッチキーボード、Palmslaveの魅力](https://kino-tsuyo.com/palmslave/)
 
 # 部品
 
