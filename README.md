@@ -10,8 +10,9 @@ Palmslave(パームスレイブ)は16mm(0.8u)の狭ピッチを採用した38キ
 キースイッチソケットを採用しているため、気分や好みにあわせてキースイッチを取り替えることが可能です。
 BLE Micro Proを用いることでBluetoothによる無線接続も可能です。  
 
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/08.jpg?raw=true" width = "600px" />
-<img src = "https://github.com/takashicompany/palmslave/blob/master/images/09.jpg?raw=true" width = "300px" /><img src = "https://github.com/takashicompany/palmslave/blob/master/images/02_w1600px.jpg?raw=true" width = "300px" />
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/08.jpg?raw=true" width = "600px" />  
+
+<img src = "https://github.com/takashicompany/palmslave/blob/master/images/09.jpg?raw=true" width = "295px" />  <img src = "https://github.com/takashicompany/palmslave/blob/master/images/02_w1600px.jpg?raw=true" width = "295px" />
 
 購入前に以降の作業工程を読みながら頭の中で組み立てるイメージをすることを推奨します。  
 部品の位置関係や必要な部品を具体的にすることで、ミスを少なくすることが可能です。  
@@ -21,8 +22,12 @@ BLE Micro Proを用いることでBluetoothによる無線接続も可能です�
 
 購入や組み立ての際に以下のページもご覧頂けますと、より理解が深まるかと思います。
 
+[自作キーボード作ってみた Palmslave編 | Palmslave : Custom Mechanical Keyboard Build](https://www.youtube.com/watch?v=KTx7i8l9HfU&ab_channel=DaihukuKeyboard)
+[![Daihuku](http://img.youtube.com/vi/KTx7i8l9HfU/0.jpg)](https://www.youtube.com/watch?v=KTx7i8l9HfU)
+
 - [GreenKeys : takashicompany新作「Palmslave」レビュー｜スモールデバイスに似合う左右分割無線対応キーボード](https://green-keys.info/takashicompany-palmslave-review/)
 - [kazy : 狭ピッチ40%分割キーボード「Palmslave」ビルドログ](https://note.com/kazy_developer/n/n3b10e4a06097)
+- [Kinotsuyo : 持ち運びたくなる狭ピッチキーボード、Palmslaveの魅力](https://kino-tsuyo.com/palmslave/)
 
 # 部品
 
@@ -52,9 +57,9 @@ BLE Micro Proを用いることでBluetoothによる無線接続も可能です�
 |:--|:--|:--|
 |[キースイッチ](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)|38|Choc v1、v2に対応しています。Lofreeのキースイッチにも対応しています。|
 |0.8uキーキャップ(16mm)|38|[こちら](https://zenn.dev/takashicompany/articles/9ed4ea07e072fd)にまとめております。|
-|[Pro Micro](https://talpkeyboard.net/?category_id=59e2ad48c8f22c3720001301)|2|動作確認済みのものは[こちら](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)です。高さがあるPro Micro(USB-C採用をしたものなど)はPro Microカバーと干渉してしまうことがあります。背の低いPro Microを選択するかスペーサーを長いものに取り替えるなどで対応できます。|
+|[Pro Micro](https://shop.yushakobo.jp/products/3905)|2|動作確認済みのものは[こちら](https://shop.yushakobo.jp/products/3905)です。高さがあるPro Micro(USB-C採用をしたものなど)はPro Microカバーと干渉してしまうことがあります。背の低いPro Microを選択するかスペーサーを長いものに取り替えるなどで対応できます。|
 |[コンスルー](https://shop.yushakobo.jp/products/31)|4|12ピンのものを購入しておけばPro Micro、BLE Micro Proの両方に用いることができます。|
-|[TRRSケーブル](https://shop.yushakobo.jp/products/8023)|1|有線接続の際に左右のキーボードを接続します。|
+|[TRRSケーブル](https://shop.yushakobo.jp/products/8023)|1|有線接続の際に左右のキーボードを接続します。**ケーブルが太いものはケースと干渉してしまうことがありますので、左右接続を有線で行う場合は[細身のケーブル](https://shop.yushakobo.jp/products/8023)をご利用ください。**|
 
 ### ケース
 
@@ -112,7 +117,7 @@ BLE Micro Proを用いることでBluetoothによる無線接続も可能です�
 もう一方もハンダ付けします。  
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_0998.jpg?raw=true" width = "600px" />
 
-基板の片側で18箇所、左右で38箇所にダイオードをハンダ付けしたら完了です。
+基板の片側で19箇所、左右で38箇所にダイオードをハンダ付けしたら完了です。
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_0999.jpg?raw=true" width = "600px" />
 
 ## 3. キースイッチソケットの取り付け
@@ -129,7 +134,7 @@ BLE Micro Proを用いることでBluetoothによる無線接続も可能です�
 反対側もハンダ付けします。  
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1006.jpg?raw=true" width = "600px" />
 
-こちらダイオードと同様に片側で18箇所、左右で38箇所に取り付けます。  
+こちらダイオードと同様に片側で19箇所、左右で38箇所に取り付けます。  
 <img src = "https://github.com/takashicompany/palmslave/blob/master/images/build/IMG_1007.jpg?raw=true" width = "600px" />
 
 ## 4. リセットスイッチの取り付け
