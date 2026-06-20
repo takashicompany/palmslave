@@ -190,9 +190,6 @@ TRRSソケットを基板の表側に載せます。
 
 ## 7. ファームウェアの書き込み
 
-2025/01/12時点では[miniDivide(v1)のファームウェア](https://github.com/takashicompany/minidivide?tab=readme-ov-file#6-%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF)をご利用ください。
-書き込み手順や確認事項も同様となります。
-
 Pro Microにファームウェアを書き込みます。ファームウェアは[Remapから書き込む](https://remap-keys.app/catalog/9hMciuSoDHS5Mp3YbabX/firmware)ことができます。
 
 <img src = "https://github.com/user-attachments/assets/b1b23ce1-76be-411c-ac60-f279fc0dc829" width = "600px" />
