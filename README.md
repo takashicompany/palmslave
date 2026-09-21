@@ -57,7 +57,7 @@ BLE Micro Proを用いることでBluetoothによる無線接続も可能です�
 |:--|:--|:--|
 |[キースイッチ](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)|38|Choc v1、v2に対応しています。Lofreeのキースイッチにも対応しています。|
 |0.8uキーキャップ(16mm)|38|[こちら](https://zenn.dev/takashicompany/articles/9ed4ea07e072fd)にまとめております。|
-|[Pro Micro](https://shop.yushakobo.jp/products/3905)|2|動作確認済みのものは[こちら](https://shop.yushakobo.jp/products/3905)です。高さがあるPro Micro(USB-C採用をしたものなど)はPro Microカバーと干渉してしまうことがあります。背の低いPro Microを選択するかスペーサーを長いものに取り替えるなどで対応できます。|
+|[Pro Micro](https://shop.yushakobo.jp/products/3905)|2|動作確認済みのものは[こちら](https://shop.yushakobo.jp/products/3905)です。高さがあるPro Micro(USB-C採用をしたものなど)はPro Microカバーと干渉してしまうことがあります。背の低いPro Microを選択するかスペーサーを長いものに取り替えるなどで対応できます。またBLE Micro Proと[BMP Boost](https://shop.yushakobo.jp/products/10737)は互換性を維持しており、当キーボードでも[BMP Boostで動作することが確認](https://x.com/takashicompany/status/1981351390409904529?s=20)されております。|
 |[コンスルー](https://shop.yushakobo.jp/products/31)|4|12ピンのものを購入しておけばPro Micro、BLE Micro Proの両方に用いることができます。|
 |[TRRSケーブル](https://shop.yushakobo.jp/products/8023)|1|有線接続の際に左右のキーボードを接続します。**ケーブルが太いものはケースと干渉してしまうことがありますので、左右接続を有線で行う場合は[細身のケーブル](https://shop.yushakobo.jp/products/8023)をご利用ください。**|
 
